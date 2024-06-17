@@ -142,7 +142,10 @@
     height: 100%;
     width: 97vw;
     left: 2rem;
-    background: url('../img/background.jpeg') no-repeat center center/cover;
+    top: 0;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
   }
   
   /* Profile___________________________________________________________________ */
